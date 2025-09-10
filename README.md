@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Cleiton José Carneiro Junior  
+# Hey there 👋, I'm Cleiton J. C. Junior  
 
 🎓 **B.Sc. Economics @ UNICAMP (Top 5%)**  
 💻 **Quantitative Finance & Data Science**  
