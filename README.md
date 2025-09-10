@@ -31,6 +31,12 @@
 ## 📚 Studies 
 - 📈 [Asset Pricing & Portfolio Optimization: A German Case Study](https://github.com/cleitonjunior0611/assetpricing-kuleuven)
 - 📈 [Brazilian Multi-Asset Risk Analysis: Portfolio Optimization & Credit Assessment](https://github.com/cleitonjunior0611/br-portfolio-risk-analysis)
+- 📈 [CFA: Performance and Volatility Analysis for Just Eat Takeaway vs. Market Indices](https://github.com/cleitonjunior0611/cfa-analysis-kuleuven)
+- 🌱 [Environmental Degradation & Exchange Rate Volatility](https://github.com/cleitonjunior0611/green-econometrix-fx-risk)
+- 🔬 [Growth Convergence and External Constraints: Empirical Analysis of Brazil and Mexico](https://github.com/cleitonjunior0611/growth-models-unicamp)
+- Environmental Degradation & FX Volatility
+
+
 
 ---
 
