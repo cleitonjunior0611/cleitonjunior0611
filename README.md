@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Cleiton J. C. Junior  
 
-🎓 **B.Sc. Economics @ UNICAMP (Top 5%)**  
+🎓 **B.Sc. Economics @ UNICAMP | Erasmus in Finance @ KU Leuven**  
 💻 **Quantitative Finance & Data Science**  
 📊 **Researcher in Econometrics & Energy Economics**  
 🏦 Experience in **Risk & Asset Management @ Kinea**  
