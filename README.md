@@ -14,18 +14,31 @@
 - Interested in **financial markets, risk modeling, ESG & climate finance**  
 
 ---
+## 🛠️ Tech Stack & Financial Analysis Toolkit
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📈 Core Financial Modeling & Analysis
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![forecast](https://img.shields.io/badge/forecast-8.21-blue?style=for-the-badge&logo=r&logoColor=white)
+![urca](https://img.shields.io/badge/urca-1.3.3-blue?style=for-the-badge&logo=r&logoColor=white)
+![FinTS](https://img.shields.io/badge/FinTS-0.4.6-blue?style=for-the-badge&logo=r&logoColor=white)
+![TTR](https://img.shields.io/badge/TTR-0.24.4-blue?style=for-the-badge&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-2.0.0-blue?style=for-the-badge&logo=r&logoColor=white)
+
+### 🐍 Python Quantitative Finance
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-0.2.36-blue?style=for-the-badge&logo=yahoo&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🚀 Development & Production
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 ---
 
 ## 📂 Projects
