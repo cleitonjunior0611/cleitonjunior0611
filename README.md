@@ -20,10 +20,12 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![forecast](https://img.shields.io/badge/forecast-8.21-blue?style=for-the-badge&logo=r&logoColor=white)
+![estimatr](https://img.shields.io/badge/estimatr-0.32.2-2B8CBE?style=for-the-badge&logo=r&logoColor=white)
 ![urca](https://img.shields.io/badge/urca-1.3.3-blue?style=for-the-badge&logo=r&logoColor=white)
 ![FinTS](https://img.shields.io/badge/FinTS-0.4.6-blue?style=for-the-badge&logo=r&logoColor=white)
 ![TTR](https://img.shields.io/badge/TTR-0.24.4-blue?style=for-the-badge&logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-2.0.0-blue?style=for-the-badge&logo=r&logoColor=white)
+
 
 ### 🐍 Python Quantitative Finance
 
