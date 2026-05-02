@@ -2,16 +2,15 @@
 
 🎓 **B.Sc. Economics @ UNICAMP | Erasmus in Finance @ KU Leuven '24**  
 💻 **Quantitative Finance & Data Science**  
-📊 **Researcher in Econometrics & Energy Economics**  
-🏦 Experience in **Risk & Asset Management @ Kinea**  
+📊 **Researcher in Econometrics & Energy Economics @GEMAP/Unicamp**  
+🏦 Experience in **Credit Rating @S&P Global** & **Risk & Asset Management @ Kinea** 
 
 ---
 
 ## 🔍 About Me  
-- Passionate about **quantitative finance, econometrics and sustainable finance**  
+- Interested in **financial markets, econometrics and sustainable finance**  
 - Experience building **risk models, financial data pipelines and econometric analysis**  
 - Research published in *Renewable Energy (Elsevier)*  
-- Interested in **financial markets, risk modeling, ESG & climate finance**  
 
 ---
 ## 🛠️ Tech Stack & Financial Analysis Toolkit
