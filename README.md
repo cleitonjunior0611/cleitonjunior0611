@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Cleiton J. C. Junior  
+# Hey there 👋, I'm Cleiton Carneiro 
 
 🎓 **B.Sc. Economics @ UNICAMP | Erasmus in Finance @ KU Leuven '24**  
 💻 **Quantitative Finance & Data Science**  
